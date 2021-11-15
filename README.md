@@ -1,0 +1,2 @@
+# MSI-Z490-GAMING-PLUS
+efi
