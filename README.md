@@ -1,6 +1,10 @@
 # MSI-Z490-GAMING-PLUS
 efi
 
+cpu 10600K
+网卡 bcm-4360
+
+
 参考了 https://github.com/STFQ/MSI-Z490-GAMING-PLUS-for-hackintosh
 
 
